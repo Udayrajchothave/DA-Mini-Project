@@ -1,7 +1,14 @@
+# Python Runtime Version
+# python==3.10
+
+# Data Manipulation
 pandas
 numpy
-matplotlib
-seaborn
+
+# Data Modeling & Stats
 statsmodels
 scipy
-scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
