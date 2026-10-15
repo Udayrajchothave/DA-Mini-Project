@@ -3,9 +3,9 @@ Data analysis project exploring football transfer market trends, player valuatio
 
 # Football Transfer Market Data Analysis
 
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![Statsmodels](https://shields.io)
+![Python]
+![Pandas]
+![Statsmodels]
 
 ##  Project Overview
 This data analysis project explores global football transfer market trends, player valuations, and club spending patterns. By analyzing historical transfer logs, the project uncovers key insights into market inflation, positional value premiums, and financial dominance across different football leagues.
@@ -25,10 +25,10 @@ During the Exploratory Data Analysis (EDA), several notable trends were uncovere
 
 ## Repository Structure
 ```text
-├── Football_Transfer_Dataset.csv  # Raw transfer market data
-├── DA_Mini_Project_(1).ipynb       # Jupyter notebook with full analysis & code
-├── requirements.txt               # List of required Python dependencies
-└── README.md                      # Project documentation and summary
+├── Football_Transfer_Dataset.csv                  # Raw transfer market data
+├── Football_Transfer_Market_Analysis.ipynb        # Jupyter notebook with full analysis & code
+├── requirements.txt                               # List of required Python dependencies
+└── README.md                                      # Project documentation and summary
 ```
 
 ## Getting Started
@@ -42,6 +42,6 @@ pip install -r requirements.txt
 
 ### Running the Project
 1. Clone this repository or download the files.
-2. Open the notebook file `DA_Mini_Project_(1).ipynb` using Google Colab or Jupyter Lab.
+2. Open the notebook file `Football_Transfer_Market_Analysis.ipynb` using Google Colab or Jupyter Lab.
 3. Place `Football_Transfer_Dataset.csv` in the same directory and execute the cells sequentially.
 ![Football Transfer Fee](graph.png)
