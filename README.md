@@ -7,23 +7,23 @@ Data analysis project exploring football transfer market trends, player valuatio
 ![Pandas](https://shields.io)
 ![Statsmodels](https://shields.io)
 
-## 📌 Project Overview
+##  Project Overview
 This data analysis project explores global football transfer market trends, player valuations, and club spending patterns. By analyzing historical transfer logs, the project uncovers key insights into market inflation, positional value premiums, and financial dominance across different football leagues.
 
-## 📊 Key Insights & Findings
+## Key Insights & Findings
 During the Exploratory Data Analysis (EDA), several notable trends were uncovered:
 * **League Dominance:** [e.g., The English Premier League accounts for the highest share of total global transfer expenditures, outspending rival leagues by X%].
 * **Positional Premium:** [e.g., Forwards and attacking midfielders command a significantly higher average transfer fee compared to defensive positions].
 * **Age vs Value:** [e.g., Peak player valuations are heavily concentrated between the ages of 23 and 27, followed by a sharp statistical decline after age 30].
 * **Statistical Modeling:** Using `statsmodels`, a linear regression model demonstrated that [e.g., player age and goals scored are statistically significant predictors of transfer fees].
 
-## 🛠️ Tech Stack & Libraries Used
+## Tech Stack & Libraries Used
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
 * **Statistical Modeling:** `statsmodels`, `scipy`
 * **Data Visualization:** `matplotlib`, `seaborn`
 
-## 📁 Repository Structure
+## Repository Structure
 ```text
 ├── Football_Transfer_Dataset.csv  # Raw transfer market data
 ├── DA_Mini_Project_(1).ipynb       # Jupyter notebook with full analysis & code
@@ -31,7 +31,7 @@ During the Exploratory Data Analysis (EDA), several notable trends were uncovere
 └── README.md                      # Project documentation and summary
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure you have Python installed. You can install all required libraries at once using the provided requirements file:
